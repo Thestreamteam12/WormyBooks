@@ -67,9 +67,20 @@ h1 {
 }
 
 
+h3{
+  text-align: center;
+}
 
-
-
+#cont{
+  display:flex;
+  
+}
+#im{
+  width:60%;
+}
+#info{
+ width:40%; 
+}
 
 
 
