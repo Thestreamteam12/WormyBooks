@@ -58,29 +58,25 @@ a:hover{
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 h1 {
+    font-size:60px;
     text-align: center;
     color:#5996f9;
+    text-shadow: 3px 3px 0px #496ca5;
 }
 .us{
   font-size: 16px;
-  color:#5996f9;
+  color:#0db429;
 }
 
 
 h3{
-  text-align: center;
+  text-align: right;
 }
 
 #cont{
-  display:flex;
-  
+
 }
-#im{
-  width:60%;
-}
-#info{
- width:40%; 
-}
+
 
 
 
